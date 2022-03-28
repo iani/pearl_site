@@ -1,0 +1,61 @@
+#+TITLE: Site Map
+
+SiteMap Draft
+
+* Landing page
+
+This should appear when opening the homepage url:
+
+* banner (top bar(?), with pearl logo (?) and horizontal main menu points (?))
+
+Important: When the user scrolls the page down, the banner should stay fixed at the top of the browser region.
+(IZ: Δεν γνωρίζω πως το λένε αυτό το feature...)
+
+The banner should contain these points (horizontally... ?)
+
+*About, Projects, News, Members, [Collaborations/Partners?], Contact, Share*
+
+* Below the banner, a main picture (?)
+
+* Short text: Intro: What is PEARL.
+
+A text of up to ca 250 words.
+
+* "Hero" rectangles leading to the sub-pages or regions of the site, as follows:
+** Members
+
+For each member:
+- Brief introduction (ca 250 words), including background and role in project.
+- Portrait picture
+- Link to blog-like news page collection.
+- Link to external collaborations (see [[*\[Collaborations? / Partners?\] (Tentative. To be discussed)][[Collaborations? / Partners?] (Tentative. To be discussed)]])
+
+*** Iannis Zannos
+*** Apostolos Loufopoulos
+*** Hari Marini
+*** Kostas Tiligadis
+*** Ilia Katsaridou
+
+** News
+**** Xenakis Networked Live Coding Marathon (call for participation)
+
+** Projects
+*** EASTN-DC
+European Art Science Technology Network - Digital Creativity.
+History of the project and its forerunners (AMBIANT, EASTN).  Milestone summary, achievements, galleries, partner organizations and partner persons.
+
+*** IDE-Fantasy (Telematic Dance project for Elevsis 2023)
+*** Xenakis 2022 / Meta-Xenakis
+**** Xenakis Networked Live Coding Marathon
+** [About ?] (Tentative. To be discussed)
+More details about the objectives and work done at PEARL.
+** [Collaborations? / Partners?] (Tentative. To be discussed)
+Current collaborations with other organizations or persons.
+
+Each collaboration heading should contain at a brief text (ca 250 words) explaining the nature of the collaboration and its objectives, introducing the partner organization, and it should have a link to the partner organization.
+
+*** Garage 21
+*** Junjun Science
+*** Part Suspended
+*** Odeion Athinon
+*** Meta-Xenakis

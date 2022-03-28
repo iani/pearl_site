@@ -1,0 +1,8 @@
+#+TITLE: Questions_faq
+
+* What is the URL of the landing page (home page)
+:PROPERTIES:
+:DATE_DONE: [2022-03-28 Mon 13:41]
+:END:
+
+IZ: https://pearl.org.gr (please confirm...)

@@ -1,0 +1,10 @@
+#+TITLE: Team_members
+
+* Team members
+** Iannis Zannos :: Content, coordination (Chief Editor) zannos@gmail.com, iani@ionio.gr
+** Hari Marini :: Member, contributor (Editor) harimarini@ionio.gr, harimarini@gmail.com
+** Ilia Katsaridou :: Content, graphics consultant (Editor) mkatsaridou@gmail.com
+** Roubini Okonomidou :: Webmaster, overall design r.oikonomidou@ionio.gr
+** Aris Lambrogeorgos :: Web design (look and feel) a18labr@ionio.gr
+** Dimitris Boumparis :: Technical implementation x15boub@ionio.gr
+** Andreas Giannakoulopoulos :: Overall Webmaster
