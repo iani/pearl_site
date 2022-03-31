@@ -1,0 +1,5 @@
+#+TITLE: 04_news
+
+Blog like list of news headings. Each heading a link to a news page with picture and text.
+
+Use tags to indicate which project or activity category the news belong to.

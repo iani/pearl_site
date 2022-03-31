@@ -1,0 +1,5 @@
+#+TITLE: 02_about
+
+Longer desctiption of PEARL purpose, approach, activities, members, projects etc.
+
+Maybe some photos.

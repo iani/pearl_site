@@ -1,0 +1,12 @@
+#+TITLE: 06_members
+
+* Main members page
+
+Grid with members, with clickable Photo, name and cv + role in lab for each member.
+
+* Individual member pages
+For each member:
+
+- Portrait photo
+- CV and role in lab.
+- News (???)

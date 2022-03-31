@@ -1,0 +1,39 @@
+#+TITLE: 01_landing_page
+
+* Top of page: Banner
+
+(Follows at top of page when scrolling)
+
+Horizontal strip with following items:
+
+1. [PEARL Logo] (graphic),
+2. [PEARL] (text)
+3. [About] (link to about page or section of page)
+4. [Projects] (link to page or section of page)
+5. [News] (link to page or section of page)
+6. [Members] (link to page or section of page)
+7. [Partners] (link to page or section of page)
+8. [Contact] (?)
+9. [Publiccations] (link to page or section of page)
+10. [Share] (?)
+
+* Main picture
+
+Below the banner: A main Picture or gallery.
+
+Possibly screenshots and photos collected from telematic dance projects so far, in addition to screenshots from emacs/supercollider code or data or GUI elements, and photos of ssensors.
+
+
+* About - short text about PEARL
+
+Description of PEARL in ca 250 words.
+
+* "Hero" type rectangle buttons leadin to the other pages of the site.
+
+1. [About] (link to about page or section of page)
+2. [Projects] (link to page or section of page)
+3. [News] (link to page or section of page)
+4. [Members] (link to page or section of page)
+5. [Partners] (link to page or section of page)
+6. [Contact] (?)
+7. [Publiccations] (link to page or section of page)
