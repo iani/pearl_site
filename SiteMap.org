@@ -37,6 +37,8 @@ For each member:
 *** Ilia Katsaridou
 
 ** News
+A series of pages, blog-like.
+Announcements (sharsocial-media)
 **** Xenakis Networked Live Coding Marathon (call for participation)
 
 ** Projects
@@ -59,3 +61,21 @@ Each collaboration heading should contain at a brief text (ca 250 words) explain
 *** Part Suspended
 *** Odeion Athinon
 *** Meta-Xenakis
+** Technologies / Tools
+
+Hardware and software used or suggested or under evaluation.
+
+*** Core
+OscGroups
+SuperCollider
+EMACS
+SenseStage
+
+*** Under consideration / used by members / suggested
+- Unity
+- Unreal Engine
+- https://www.renpy.org/why.html
+
+** Publications
+
+** Gallery
