@@ -1,0 +1,4 @@
+#+TITLE: Images_readme
+
+- PEARL_LOGO.png :: The logo for PEARL, for banner.
+- collected_logos.pdf / svg :: Λογκο από όλους τους οργανισμούς, μαζεμένα. Θα μπούνε στη σελίδα για το project EASTN_DC. Να δούμε αν μπορούμε να πάρουμε από το svg το color coding για το PEARL Logo, ώστε να το ξαναφτιάξω σωστά σε SVG χρησιμοποιώντας την αρχική γραμματοσειρά (Ogham Lithic).

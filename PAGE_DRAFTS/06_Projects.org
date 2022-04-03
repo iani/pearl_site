@@ -1,0 +1,21 @@
+#+TITLE: 06_Projects
+
+* Projects
+
+Projects in rectangular grid.  Each project: PHoto and text, clickable to lead to the main project page.
+
+Current projects:
+
+** EASTN-DC
+European Art Science Technology Network - Digital Creativity.
+History of the project and its forerunners (AMBIANT, EASTN).  Milestone summary, achievements, galleries, partner organizations and partner persons.
+
+** IDE-Fantasy (Telematic Dance project for Elevsis 2023)
+** Xenakis 2022 / Meta-Xenakis
+*** Xenakis Networked Live Coding Marathon
+* Individual project page
+
+- Main photo or gallery.
+- Description (text).
+- List of members
+- News

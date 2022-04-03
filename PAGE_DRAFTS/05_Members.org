@@ -10,3 +10,13 @@ For each member:
 - Portrait photo
 - CV and role in lab.
 - News (???)
+
+  Members to include:
+
+** Iannis Zannos
+** Apostolos Loufopoulos
+** Hari Marini
+** Kostas Tiligadis
+** Ilia Katsaridou
+
+ fd
