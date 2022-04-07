@@ -1,4 +1,5 @@
 #+TITLE: 07_publications
 
-List of publications with links for downloading and / or online publication pages.
-Tags to indicate which project each publication belongs to.
+- List of publications with links for downloading and / or online publication pages.
+- Space for short abstract next to or underneath each publication?
+- Tags to indicate which project each publication belongs to.

@@ -10,9 +10,14 @@ For each page:
 
 - Main photo or gallery.
 - Description (text).
-- List of members
+- List of members - for each member:
+  - Name
+  - Photo
+  - CV (and role in project)
+  - Link to home page, link to page in PEARL SITE.
 - News
 - Publications list
+
 
 * [Current projects:]
 

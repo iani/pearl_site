@@ -1,6 +1,6 @@
-#+TITLE: 06_Projects
+#+TITLE: 06_Partners
 
-* Projects
+* Partners (similar to Projects)
 
 Projects in rectangular grid.  Each project: PHoto and text, clickable to lead to the main project page.
 
