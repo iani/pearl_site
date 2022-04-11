@@ -1,5 +1,34 @@
 #+TITLE: 02_about
-
+* COMMENT Meta - what to write about ...
 Longer desctiption of PEARL purpose, approach, activities, members, projects etc.
 
 Maybe some photos.
+
+* PEARL - ABOUT. 250 words minimum
+
+The Performative Environments Art Research Laboratory (PEARL) researches various kinds of performance arts making use of technological media and their related practices.  Computer Music formed an early starting point for this exploration.  Since 2018, the scope of research expanded to dance, and since 2021 other types of performance arts such as theatre and other narrative art forms are also included.  Members of the lab have varied backgrounds ranging from  composition, sound design, theatre and dance to programming and digital technology.  As technological background and foundation for this work serve open source environments for programming sound and image such as SuperCollider, P5.js and others, coupled with technologies for tracking human body movement, such as wearable sensors, and with technologies for sharing data in real time over the internet.
+
+Currently we focus on live collaboration in performance arts over the internet, using alternative open source technologies based on the protocol Open Sound Control. By sending data as code, sensor data or text over this light weight protocol we conduct performance sessions in remote parts of the world. The partners at each location can interpret the data and code in different ways to create audio, video or other performance elements. This creates a networked collaborative environment where individual performance agents or groups can develop their own interpretations while also communicating with each other with code and data. Our aim is to explore the impact of such techniques on performance arts and the potential for creation or development of new performance art practices, including but not limited to live coding and embodied performance.
+
+
+
+
+, it is possible to achieve speeds much greater than when exchanging audio or video.  It is thus possible to
+
+
+and  Furthermore, participants at each base , the translation of code
+
+Using code and text as main communication media as distinct from
+
+
+
+----- notes - fragments
+
+The term Performative Environments reflects a wide and inclusive sense of performativity, ranging from arts st
+
+The term environment stresses the
+
+*Inclusiveness*
+
+
+By performative we mean an action that has
