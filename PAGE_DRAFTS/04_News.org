@@ -1,5 +1,12 @@
 #+TITLE: 04_news
-
+* COMMENT Format
 Blog like list of news headings. Each heading a link to a news page *with picture and text*.
 
 Use tags to indicate which project or activity category the news belong to.
+
+* Call for Participation: Xenakis Networked Live Coding Marathon October 14-16 2022 (Submission Deadline: June 15 2022)
+
+As part of the centenary celebrations for the birth of Iannis Xenakis, the Performative Environments Arts Research Lab at the Department of Audiovisual Arts of the Ionian University, in collaboration with Athens Conservatory and Meta-Xenakis is planning a “Xenakis Networked Live Coding Marathon” from Friday, October 14 to Sunday, October 16 2022. At this marathon, works that can be performed from data send via OpenSoundControl will be performed at Athens Conservatory, Athens and at the Ionian Academy, Corfu as well as other venues worldwide.  The data will be shared between individual coders, performers and venues anywhere in the world, using an openly accessible server running OscGroups software (http://www.rossbencina.com/code/oscgroups).  Participants are invited to submit works inspired by Iannis Xenakis' techniques or thought to be performed at this marathon.  At the local venues in Athens and Corfu the works will be rendered using SuperCollider.  Other SuperCollider-based environments (Tidal cycles, FoxTrot etc.) as well as independent software such as browser-based environments or applications provided by the participants will be also supported to the extent that this software can run on our local servers.  The local performance group will include dancers equipped with wearable motion sensors, whose data are used locally to drive or modify sound generation, and is also relayed in real time to the remote performers using OscGroups.
+
+Please submit your proposal by June 15, 2022 using the form provided here [link].
+For more information, queries, or proposals for coordinating alternative venues, please contact Iannis Zannos at: xenakismarathon22 at gmail dot com.
