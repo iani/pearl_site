@@ -15,3 +15,59 @@ The team developing this website has following members:
 - Aris Lambrogeorgos :: Web design (look and feel) a18labr@ionio.gr
 - Dimitris Boumparis :: Technical implementation x15boub@ionio.gr
 - Andreas Giannakoulopoulos :: Overall Webmaster
+
+* PEARL WEBSITE TODOs :pearl:website:research:
+:PROPERTIES:
+:DATE_DONE: [2022-04-13 Wed 15:51]
+:END:
+
+** [ ] CMS mechanics
+*** TODO: Define list of tags
+
+*** What is editable:
+**** TEXT OF Pages such as:
+***** Landing page, Projects page, Members text
+***** Text of news
+***** TAGS
+
+
+** CONTENT
+*** About
+**** [X] Main text
+**** [ ] Facilities!
+**** Institutional ties: Dept.
+**** Date of foundation, organigram ...
+*** Publications
+*** Lab Members
+**** CV
+**** Photos
+**** Position / Function in Lab
+**** Tags, and clear text - roles in projects ....
+*** Projects
+**** PEARL
+**** Meta Xenakis
+***** Xenakis Networked Performance Marathon
+*** Partners
+**** Meta-Xenakis
+**** Garage 21
+**** Onecontinuouslab
+**** FMN
+**** Junjunscience
+**** Part Suspended
+*** News:
+**** XNPM22
+**** Lisbon / gallery (jpgs) / videos (youtube!)
+**** Ebetsu
+**** Tokyo Soundscapes (inSonic Festival XKM)
+****  ...
+*** Contact
+zannos@gmail.com
+Address, map
+Ιδρυματικό email.
+** COUNDOWN LIST (and schedule ...)
+*** IZ : select pictures <2022-04-14 Thu>
+*** IZ : Input texts:  <2022-04-14 Thu>-- <2022-04-18 Mon>
+*** IK: Translate texts 2 greek:  <2022-04-14 Thu>-- <2022-04-18 Mon>
+*** IZ-IK : Check texts:  <2022-04-18 Mon 13:00>
+*** IZ : Start CMS Tutorial:  <2022-04-20 Wed 15:00>
+*** IZ : Towards site opening:  <2022-05-03 Tue 15:00>
