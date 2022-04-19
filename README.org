@@ -14,6 +14,7 @@ The team developing this website has following members:
 - Roubini Okonomidou :: Webmaster, overall design r.oikonomidou@ionio.gr
 - Aris Lambrogeorgos :: Web design (look and feel) a18labr@ionio.gr
 - Dimitris Boumparis :: Technical implementation x15boub@ionio.gr
+- Konstantinos Tiligadis :: Lab Member <gustil@ionio.gr>
 - Andreas Giannakoulopoulos :: Overall Webmaster
 
 * PEARL WEBSITE TODOs :pearl:website:research:
