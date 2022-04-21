@@ -68,7 +68,7 @@ Participants are invited to submit works inspired by Iannis Xenakis' techniques 
 Γιάννης Ζάννος
 
 
-English
+* English
 
 As part of the centenary celebrations for the birth of Iannis Xenakis, the Performative Environments Arts Research Lab at the Department of Audiovisual Arts of the Ionian University, in collaboration with Athens Conservatory and the Meta-Xenakis  consortium are planning a “Xenakis Networked Performance Marathon” from Friday, December 16 to Saturday, December 17, 2022.  At this marathon, works will be performed at the same time at Athens Conservatory (Athens), as well as other venues worldwide, using the interenet to transmit control data, audio and video and to coordinate performances between different locations. Our aim is to enable artists to perform their works from remote locations and to recreate these works in real time in Athens and other venues by running the software that creates these performances locally, based on the data received from the performers over the internet.  
 
@@ -76,7 +76,7 @@ Performance data from live coders, scores, instrumental performers, dancers, ins
 
 Participants are invited to submit works inspired by Iannis Xenakis' techniques or thought to be performed at this marathon, including but not limited to Live Coding performances. The local performance group is designing a performance in which dancers equipped with wearable motion sensors will drive and/or modify sound with data from their movement both locally and remotely supported by OscGroups.  We invite proposals from other artists to develop and present works based on OSC and perform them concurrently in real time on various locations in the world.
 
-Ελληνικά
+* Ελληνικά
 
 Στο πλαίσιο του εορτασμού της εκατονταετηρίδας από τη γέννηση του Iάννη Ξενάκη, το Εργαστήριο Performative Environments Arts Research Lab (PEARL) του Τμήματος Οπτικοακουστικών Τεχνών του Ιονίου Πανεπιστημίου, σε συνεργασία με το Ωδείο Αθηνών και το κονσόρτιο Meta-Xenakis προγραμματίζουν έναν μουσικοχορευτικό Μαραθώνιο, δηλαδή μια σειρά από εκτελέσεις μουσικών και χορευτικών έργων με ζωντανό κώδικα (live coding) συνολικής διάρκειας 24 ωρών, από Παρασκευή 16 Δεκεμβρίου έως το Σάββατο 17 Δεκεμβρίου 2022. Σε αυτόν τον Μαραθώνιο, θα εκτελεστούν έργα ταυτόχρονα στο Ωδείο Αθηνών (Αθήνα) και σε άλλους χώρους παγκοσμίως, χρησιμοποιώντας το διαδίκτυο για τη μετάδοση δεδομένων ελέγχου, ήχου και βίντεο και για τον συντονισμό παραστάσεων μεταξύ διαφορετικών τοποθεσιών.
 
