@@ -1,1 +1,36 @@
 #+TITLE: Eastn_dc
+
+* About
+European Network for Art-Science-Technology Digital Creati(EASTN-DC) is .....
+[link] ....
+
+Take info from https://eastndc.eu
+
+* Subpages
+
+** Cultural Activities: Tours
+*** IDE-Fantasy v0.0: Palo Alto<->Corfu<->Athens
+*** IDE-Fantasy v0.1: Jerusalem<->Athens, Musrara Festival
+*** IDE-Fantasy v0.2: Hokkaido<->Corfu, Ooasa Lantern Festival
+*** IDE-Fantasy v1.0: Lisbon<->Corfu, Musica Viva Festival
+
+** Cultural Activites: Residencies
+*** Theorems exhibition
+*** Fantastic Worlds Art-Science Exhibition
+*** Salt Itinerary
+*** IDE-Fantasy v1.1: Elevsis, Spring Forward Festival
+*** IDE-Fantasy v1.2: Polytechno, Studio DIPETHE<->Tokyo
+*** Festival 2022: Xenakis documentary screening
+*** Festival 2022: Interactive Soundscape
+*** Xenakis bio performance
+*** Xenakis artworks
+
+** Knowledge Sharing
+*** Presentation on networked sensor performance at Manchester Workshop
+*** Paper Presentation at LAC19: sc-hacks a framework for live coding and electroacoustic performance
+*** AV School 2021 Workshop on Networked Collaborative Performance
+*** DCAC Conference 2021 Special Session
+*** EASTN-DC Open Day
+*** Festival 2022: Cyberphysical dance performance
+*** AV School 2022: Performance Workshops
+*** Xenakis 2022: Telematic Collaborative Cyberphysical Dance Workshop Corfu<->Navplion
